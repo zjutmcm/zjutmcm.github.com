@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[数学建模]]></title>
-  <link href="http://zjutmcm.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 经济 | 数学建模]]></title>
+  <link href="http://zjutmcm.github.io/blog/categories/jing-ji/atom.xml" rel="self"/>
   <link href="http://zjutmcm.github.io/"/>
   <updated>2013-12-27T21:12:51+08:00</updated>
   <id>http://zjutmcm.github.io/</id>
@@ -19,28 +19,6 @@
     <updated>2013-12-27T16:37:42+08:00</updated>
     <id>http://zjutmcm.github.io/blog/2013/12/27/eco-riview</id>
     <content type="html"><![CDATA[<h1>复习提纲</h1>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[数据分析课堂笔记（1）]]></title>
-    <link href="http://zjutmcm.github.io/blog/2013/12/27/class-note-1/"/>
-    <updated>2013-12-27T14:25:31+08:00</updated>
-    <id>http://zjutmcm.github.io/blog/2013/12/27/class-note-1</id>
-    <content type="html"><![CDATA[<h1>主成分分析</h1>
-
-<h1>因子分析</h1>
-
-<blockquote><ol>
-<li><p><strong>因子载荷</strong></p></li>
-<li><p><strong>大家</strong></p></li>
-<li><strong>大家</strong></li>
-</ol>
-</blockquote>
-
-<p><code>`dd</code></p>
-
-<h1>聚类分析</h1>
 ]]></content>
   </entry>
   
